@@ -7,5 +7,6 @@
 - [Уровень 4. ООП: Интерфейсы](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_4)
 - [Уровень 5. Дженерики](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_5)
 - [Уровень 6. Лямбда-выражения и Stream API](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_6)
+- [Уровень 7. Приведение типов](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_7)
 
 ## Факультативы

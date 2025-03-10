@@ -12,3 +12,4 @@
 - [Уровень 9. Устройство класса Object.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_9)
 
 ## Факультативы
+- [Факультатив 1. Рекурсия, лямбда-выражения, Stream API, equals(), hashCode().](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/elective_1)

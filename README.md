@@ -10,6 +10,7 @@
 - [Уровень 7. Приведение типов](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_7)
 - [Уровень 8. Особенности вызова конструкторов.Блок static.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_8)
 - [Уровень 9. Устройство класса Object.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_9)
+- [Уровень 11. Знакомство с потоками (часть 1).](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_11)
 
 ## Факультативы
 - [Факультатив 1. Рекурсия, лямбда-выражения, Stream API, equals(), hashCode().](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/elective_1)

@@ -1,6 +1,6 @@
-package lecture_17.threads_3;
+package lecture_13.threads_3;
 
-import lecture_17.threads_1.MyThread;
+import lecture_13.threads_1.MyThread;
 
 public class ThreadPriorityExample {
     public static void main(String[] args) {

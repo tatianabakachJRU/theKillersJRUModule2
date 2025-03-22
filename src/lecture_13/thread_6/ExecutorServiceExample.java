@@ -1,4 +1,4 @@
-package lecture_17.thread_6;
+package lecture_13.thread_6;
 
 
 import java.util.concurrent.ExecutorService;

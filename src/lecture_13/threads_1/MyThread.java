@@ -1,4 +1,4 @@
-package lecture_17.threads_1;
+package lecture_13.threads_1;
 
 public class MyThread implements Runnable{
     @Override

@@ -1,4 +1,4 @@
-package lecture_17.threads_3;
+package lecture_13.threads_3;
 
 public class MyPriorityRunnable implements Runnable{
     private int priority;

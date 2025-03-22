@@ -1,4 +1,4 @@
-package lecture_17.threads_1;
+package lecture_13.threads_1;
 
 public class ThreadGroupExample {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package lecture_17.threads_2;
+package lecture_13.threads_2;
 
-import lecture_17.threads_1.MyThread;
+import lecture_13.threads_1.MyThread;
 
 public class ThreadGroupExample {
     public static void main(String[] args) {

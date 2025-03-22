@@ -1,4 +1,4 @@
-package lecture_17.thread_4;
+package lecture_13.thread_4;
 
 public class HighPriorityTask implements Task{
     @Override

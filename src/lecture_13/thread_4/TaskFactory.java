@@ -1,4 +1,4 @@
-package lecture_17.thread_4;
+package lecture_13.thread_4;
 
 public class TaskFactory {
     public static Task createTask(String type){

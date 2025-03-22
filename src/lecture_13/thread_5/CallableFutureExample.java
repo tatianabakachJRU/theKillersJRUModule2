@@ -1,4 +1,4 @@
-package lecture_17.thread_5;
+package lecture_13.thread_5;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

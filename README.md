@@ -13,6 +13,7 @@
 - [Уровень 11. Знакомство с потоками (часть 1).](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_11)
 - [Уровень 12. Знакомство с потоками (часть 2).](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_12)
 - [Уровень 13. Знакомство с потоками (часть 3). Executor.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_13)
+- [Уровень 14. Знакомство с потоками (часть 4). Thread Pool.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_14)
 
 ## Факультативы
 - [Факультатив 1. Рекурсия, лямбда-выражения, Stream API, equals(), hashCode().](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/elective_1)

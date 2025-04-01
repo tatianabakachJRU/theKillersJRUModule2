@@ -18,3 +18,4 @@
 
 ## Факультативы
 - [Факультатив 1. Рекурсия, лямбда-выражения, Stream API, equals(), hashCode().](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/elective_1)
+- [Факультатив 2. Многопоточность. Приложение про единорогов.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/elective_2)

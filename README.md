@@ -15,6 +15,7 @@
 - [Уровень 13. Знакомство с потоками (часть 3). Executor.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_13)
 - [Уровень 14. Знакомство с потоками (часть 4). Thread Pool.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_14)
 - [Уровень 15. Внутренние и Вложенные классы + Java Concurrent(основы).](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_15)
+- [Уровень 17. Reflection API.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_17)
 
 ## Факультативы
 - [Факультатив 1. Рекурсия, лямбда-выражения, Stream API, equals(), hashCode().](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/elective_1)

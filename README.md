@@ -17,6 +17,7 @@
 - [Уровень 15. Внутренние и Вложенные классы + Java Concurrent(основы).](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_15)
 - [Уровень 17. Reflection API.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_17)
 - [Уровень 18. Аннотации в Java.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_18)
+- [Уровень 19. Sockets.](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/lecture_19)
 
 ## Факультативы
 - [Факультатив 1. Рекурсия, лямбда-выражения, Stream API, equals(), hashCode().](https://github.com/tatianabakachJRU/theKillersJRUModule2/tree/main/src/elective_1)

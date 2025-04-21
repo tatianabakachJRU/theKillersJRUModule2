@@ -1,0 +1,81 @@
+animals:
+  - name: "Волк"
+    weight: 50
+    max_count_per_cell: 30
+    max_speed: 3
+    food_needed: 8
+  - name: "Удав"
+    weight: 15
+    max_count_per_cell: 30
+    max_speed: 1
+    food_needed: 3
+  - name: "Лиса"
+    weight: 8
+    max_count_per_cell: 30
+    max_speed: 2
+    food_needed: 2
+  - name: "Медведь"
+    weight: 500
+    max_count_per_cell: 5
+    max_speed: 2
+    food_needed: 80
+  - name: "Орел"
+    weight: 6
+    max_count_per_cell: 20
+    max_speed: 3
+    food_needed: 1
+  - name: "Лошадь"
+    weight: 400
+    max_count_per_cell: 20
+    max_speed: 4
+    food_needed: 60
+  - name: "Олень"
+    weight: 300
+    max_count_per_cell: 20
+    max_speed: 4
+    food_needed: 50
+  - name: "Кролик"
+    weight: 2
+    max_count_per_cell: 150
+    max_speed: 2
+    food_needed: 0.45
+  - name: "Мышь"
+    weight: 0.05
+    max_count_per_cell: 500
+    max_speed: 1
+    food_needed: 0.01
+  - name: "Коза"
+    weight: 60
+    max_count_per_cell: 140
+    max_speed: 3
+    food_needed: 10
+  - name: "Овца"
+    weight: 70
+    max_count_per_cell: 140
+    max_speed: 3
+    food_needed: 15
+  - name: "Кабан"
+    weight: 400
+    max_count_per_cell: 50
+    max_speed: 2
+    food_needed: 50
+  - name: "Буйвол"
+    weight: 700
+    max_count_per_cell: 10
+    max_speed: 3
+    food_needed: 100
+  - name: "Утка"
+    weight: 1
+    max_count_per_cell: 200
+    max_speed: 4
+    food_needed: 0.15
+  - name: "Гусеница"
+    weight: 0.01
+    max_count_per_cell: 1000
+    max_speed: 0
+    food_needed: 0
+  - name: "Растения"
+    weight: 1
+    max_count_per_cell: 200
+    max_speed: N/A
+    food_needed: N/A
